@@ -1,0 +1,19 @@
+//
+//  PrefixHeader.pch
+//  SceneKitDemo01
+//
+//  Created by 物格网络游戏 on 2020/12/22.
+//  Copyright © 2020 wnkpzzz. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+
+#import <AMapFoundationKit/AMapFoundationKit.h>
+#import <MAMapKit/MAMapKit.h>
+#import <AMapLocationKit/AMapLocationKit.h>
+
+
+#endif /* PrefixHeader_pch */
